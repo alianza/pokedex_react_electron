@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8f63cd12.chunk.css",
+    "main.js": "/static/js/main.484266ad.chunk.js",
+    "main.js.map": "/static/js/main.484266ad.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.75cdaa66.js",
+    "runtime-main.js.map": "/static/js/runtime-main.75cdaa66.js.map",
+    "static/js/2.25545777.chunk.js": "/static/js/2.25545777.chunk.js",
+    "static/js/2.25545777.chunk.js.map": "/static/js/2.25545777.chunk.js.map",
+    "static/js/3.80e76389.chunk.js": "/static/js/3.80e76389.chunk.js",
+    "static/js/3.80e76389.chunk.js.map": "/static/js/3.80e76389.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.8f63cd12.chunk.css.map": "/static/css/main.8f63cd12.chunk.css.map",
+    "static/js/2.25545777.chunk.js.LICENSE.txt": "/static/js/2.25545777.chunk.js.LICENSE.txt",
+    "static/media/pokéball_closed.9fc0eeae.png": "/static/media/pokéball_closed.9fc0eeae.png",
+    "static/media/pokéball_open.6627101a.png": "/static/media/pokéball_open.6627101a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75cdaa66.js",
+    "static/js/2.25545777.chunk.js",
+    "static/css/main.8f63cd12.chunk.css",
+    "static/js/main.484266ad.chunk.js"
+  ]
+}
